@@ -1,3 +1,3 @@
-# Word Search
+# Simon Says
 
 Enjoy the game :p
