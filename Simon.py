@@ -147,3 +147,5 @@ while True:
             # Output player score
             print(f"Score: {score_counter}")
             break
+print("--------------THANKS FOR USING MY PROGRAM!------------------------------------------------------------------\n")
+print()
