@@ -1,3 +1,3 @@
 # Simon Says
 
-Enjoy the game :p
+Enjoy the terminal game :p
